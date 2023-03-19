@@ -27,5 +27,8 @@
 
 <!-- PRUEBA -->
 <style>
-
+<div class="col-md-8">
+          <edit-profile-form>
+          </edit-profile-form>
+        </div>
 </style>
