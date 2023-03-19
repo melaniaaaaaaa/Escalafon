@@ -24,3 +24,8 @@
   }
 
 </script>
+
+<!-- PRUEBA -->
+<style>
+  background-attachment: fixed;
+</style>
